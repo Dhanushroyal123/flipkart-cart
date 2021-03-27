@@ -1,0 +1,5 @@
+export const DECREASE = 'DECREASE'
+export const INCREASE = 'INCREASE'
+export const ADD_ITEM = 'ADD_ITEM'
+export const REM_ITEM = 'REM_ITEM'
+export const SER_ITEM = 'SER_ITEM'
